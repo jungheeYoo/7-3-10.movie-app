@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/jungheeYoo/7-3-10.movie-app.git/static/js/main.d0829631.js",
-    "index.html": "/jungheeYoo/7-3-10.movie-app.git/index.html",
-    "main.d0829631.js.map": "/jungheeYoo/7-3-10.movie-app.git/static/js/main.d0829631.js.map"
+    "main.js": "/7-3-10.movie-app/static/js/main.d0829631.js",
+    "index.html": "/7-3-10.movie-app/index.html",
+    "main.d0829631.js.map": "/7-3-10.movie-app/static/js/main.d0829631.js.map"
   },
   "entrypoints": [
     "static/js/main.d0829631.js"
